@@ -16,7 +16,7 @@ const Highlights = () => {
         <div className="screen-max-width">
         <div className='mb-12 w-full  items-end justify-between'>
         <h1 id='title' className='section-heading'>Get the highlights.</h1>
-        <div className='flex flex-wrap items-end gap-5'>
+        <div className='flex flex-wrap items-end gap-5 mt-5'>
         <p className='link'>Watch the film
         <img src={watchImg} className='ml-2' alt="watch" /></p>
         <p className='link'>Watch the event
